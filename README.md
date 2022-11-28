@@ -1,9 +1,9 @@
-## Chatroom
+# Chatroom
 
-# Server
+## Server
 
 - built with Express and Typescript
 
-# Client
+## Client
 
 - built with React and Typescript
